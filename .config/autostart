@@ -1,0 +1,17 @@
+nitrogen --restore
+
+compton&
+
+tint2&
+
+blueman-applet&
+
+(sleep 5; volumeicon)&
+
+xfce4-power-manager&
+
+nm-applet --sm-disable&
+
+gxkb&
+
+conky
